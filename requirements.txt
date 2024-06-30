@@ -1,0 +1,6 @@
+azure-storage-blob
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
